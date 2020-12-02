@@ -1,1 +1,1 @@
-My personal site
+My WIP personal website and learning playground
