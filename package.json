@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ramazu/ramil-web/issues"
   },
-  "homepage": "https://github.com/ramazu/ramil-web#readme"
+  "homepage": "https://github.com/ramazu/ramil-web#readme",
+  "dependencies": {
+    "tailwindcss": "^2.0.1"
+  }
 }
