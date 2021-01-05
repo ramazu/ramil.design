@@ -4,7 +4,7 @@
   "description": "A clean personal website theme built with just the basics",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build-css": "tailwindcss build src/styles.css -o public/styles.css"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/ramazu/ramil-web#readme",
   "dependencies": {
-    "tailwindcss": "^2.0.2"
+    "tailwindcss": "^2.0.1"
   }
 }
