@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/ramazu/ramil-web#readme",
   "dependencies": {
-    "tailwindcss": "^2.2.2"
+    "tailwindcss": "^2.2.4"
   }
 }
