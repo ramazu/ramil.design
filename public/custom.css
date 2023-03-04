@@ -75,8 +75,6 @@ ul li:last-of-type {
   }
 
   .writing-block {
-	p{ 
-		color:rgba(107, 114, 128, var(--tw-text-opacity));
-		font-size: 16px;
-	}
+	color: rgba(107, 114, 128, var(--tw-text-opacity));
+	font-size: 16px;
   }
