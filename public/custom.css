@@ -73,3 +73,9 @@ ul li:last-of-type {
   100% {
     background-position: 0% 50%;
   }
+
+  .writing-block {
+	p{ 
+		color:rgba(107, 114, 128, var(--tw-text-opacity))
+	}
+  }
