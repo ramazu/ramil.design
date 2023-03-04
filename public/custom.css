@@ -62,6 +62,10 @@ ul li:last-of-type {
 	margin-bottom: 0;
 }
 
+.writing-block {
+	color: rgba(107, 114, 128, var(--tw-text-opacity));
+	font-size: 16px;
+}
 
 @keyframes gradient {
   0% {
@@ -74,7 +78,3 @@ ul li:last-of-type {
     background-position: 0% 50%;
   }
 
-  .writing-block {
-	color: rgba(107, 114, 128, var(--tw-text-opacity));
-	font-size: 16px;
-  }
